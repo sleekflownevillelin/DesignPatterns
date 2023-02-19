@@ -1,0 +1,15 @@
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/bin/Debug/net7.0/Singleton
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/bin/Debug/net7.0/Singleton.deps.json
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/bin/Debug/net7.0/Singleton.runtimeconfig.json
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/bin/Debug/net7.0/Singleton.dll
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/bin/Debug/net7.0/Singleton.pdb
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/obj/Debug/net7.0/Singleton.csproj.AssemblyReference.cache
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/obj/Debug/net7.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfoInputs.cache
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfo.cs
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/obj/Debug/net7.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/obj/Debug/net7.0/Singleton.dll
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/obj/Debug/net7.0/refint/Singleton.dll
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/obj/Debug/net7.0/Singleton.pdb
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/obj/Debug/net7.0/Singleton.genruntimeconfig.cache
+/Users/nevillelam/Desktop/Personal/Dev/Design patterns/Singleton/obj/Debug/net7.0/ref/Singleton.dll
